@@ -1,0 +1,54 @@
+# Dossiers build
+bin/
+obj/
+debug/
+release/
+packages/
+.vs/
+
+# Fichiers de build
+*.exe
+*.dll
+*.pdb
+*.nupkg
+*.user
+*.suo
+*.cache
+*.log
+
+# Fichiers de configuration Visual Studio
+.vscode/
+.idea/
+*.sln.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Fichiers de base de données
+*.mdf
+*.ldf
+*.sqlite
+
+# Fichiers de configuration d'application
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+# Dossiers et fichiers du système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de logs
+*.log
+logs/
+Log/
+
+# Fichiers temporaires
+[Tt]emp/
+*.tmp
+*.temp
+
+# Outils .NET
+.dotnet/
+tools/
